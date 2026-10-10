@@ -1,0 +1,110 @@
+# Dose and Concentration Measurement Units
+# Columns: surface, canonical, kind
+surface	canonical	kind
+nM	nM	concentration
+uM	µM	concentration
+um	µM	concentration
+μM	µM	concentration
+µM	µM	concentration
+µm	µM	concentration
+mM	mM	concentration
+pM	pM	concentration
+fM	fM	concentration
+gr.	gr	amount
+nmol	nmol	amount
+umol	µmol	amount
+μmol	µmol	amount
+pmol	pmol	amount
+mg/ml	mg/ml	mass_vol
+mg/mL	mg/ml	mass_vol
+ng/ml	ng/ml	mass_vol
+ng/mL	ng/ml	mass_vol
+pg/ml	pg/ml	mass_vol
+pg/mL	pg/ml	mass_vol
+ug/ml	µg/ml	mass_vol
+μg/ml	µg/ml	mass_vol
+ug/mL	µg/ml	mass_vol
+μg/mL	µg/ml	mass_vol
+mg/L	mg/L	mass_vol
+ug/L	µg/L	mass_vol
+μg/L	µg/L	mass_vol
+uL	µL	volume
+nL	nL	volume
+pL	pL	volume
+mg/kg	mg/kg	animal_dose
+ug/kg	µg/kg	animal_dose
+μg/kg	µg/kg	animal_dose
+g/kg	g/kg	animal_dose
+mg/m2	mg/m2	bsa_dose
+IU/ml	IU/ml	activity_conc
+mIU/ml	mIU/ml	activity_conc
+U/ml	U/ml	activity_conc
+mU/ml	mU/ml	activity_conc
+kU/ml	kU/ml	activity_conc
+units/ml	units/ml	activity_conc
+IU	IU	activity
+units	units	activity
+%	%	percent
+% v/v	% v/v	percent (volume fraction)
+% w/v	% w/v	percent (mass-volume fraction)
+% w/w	% w/w	percent (mass fraction)
+wt%	% w/w	percent
+vol%	% v/v	percent
+ppm	ppm	ratio
+ppb	ppb	ratio
+MOI	MOI	infection_ratio
+copies/cell	copies/cell	molecular_count
+µg/ml	µg/ml	mass_vol
+µg/mL	µg/ml	mass_vol
+µg/L	µg/L	mass_vol
+mg	mg	mass (oral/topical)
+mcg	µg	mass (microgram)
+µg	µg	mass (microgram)
+ng	ng	mass (nanogram)
+pg	pg	mass (picogram)
+mL	mL	volume
+ml	mL	volume
+mEq	mEq	equivalent
+meq	mEq	equivalent
+mg/day	mg/day	mass_rate
+mcg/day	mcg/day	mass_rate
+umol/L	µM	concentration
+umol/l	µM	concentration
+μmol/L	µM	concentration
+μmol/l	µM	concentration
+µmol/L	µM	concentration
+µmol/l	µM	concentration
+nmol/L	nM	concentration
+nmol/l	nM	concentration
+mmol/L	mM	concentration
+mmol/l	mM	concentration
+pmol/L	pM	concentration
+pmol/l	pM	concentration
+fmol/L	fM	concentration
+fmol/l	fM	concentration
+mol/L	M	concentration
+mol/l	M	concentration
+ng/ul	ng/µl	mass_vol
+ng/uL	ng/µl	mass_vol
+ng/μl	ng/µl	mass_vol
+ng/µl	ng/µl	mass_vol
+ug/ul	µg/µl	mass_vol
+ug/uL	µg/µl	mass_vol
+μg/ul	µg/µl	mass_vol
+μg/uL	µg/µl	mass_vol
+µg/ul	µg/µl	mass_vol
+µg/uL	µg/µl	mass_vol
+M	M	concentration
+vg/ml	vg/ml	viral_titer
+vg/mL	vg/ml	viral_titer
+vg/ul	vg/µl	viral_titer
+vg/uL	vg/µl	viral_titer
+vg	vg	viral_genome
+TU/ml	TU/ml	viral_titer
+TU/mL	TU/ml	viral_titer
+IFU/ml	IFU/ml	viral_titer
+IFU/mL	IFU/ml	viral_titer
+PFU/ml	PFU/ml	viral_titer
+PFU/mL	PFU/ml	viral_titer
+gc/ml	gc/ml	viral_titer
+gc/mL	gc/ml	viral_titer

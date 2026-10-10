@@ -1,0 +1,35 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "perturbalign"
+version = "0.9.2"
+description = "Single-cell perturbation metadata alignment & annotation middleware (offline-first, multimodal, data-driven)."
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+authors = [{ name = "zhanghong3 lab" }]
+keywords = ["perturb-seq", "single-cell", "drug", "normalization", "annotation"]
+# Core module only depends on standard library (sqlite3/urllib/dataclasses); pandas/rapidfuzz/rdkit/anndata are optional
+dependencies = []
+
+[project.optional-dependencies]
+pandas = ["pandas>=1.5"]
+fuzzy = ["rapidfuzz>=2.0"]
+rdkit = ["rdkit>=2023.3"]
+anndata = ["anndata>=0.8"]
+dev = ["pytest>=7.0", "pandas>=1.5", "rapidfuzz>=2.0"]  # Testing dependencies (including Phase 2 suite)
+
+[project.scripts]
+perturbalign = "perturbalign.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
+
+[tool.setuptools.package-data]
+perturbalign = ["resources/*.tsv"]

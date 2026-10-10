@@ -1,0 +1,62 @@
+# Pharmaceutical Dosage Form and Regulatory Suffixes
+# Columns: suffix, note
+suffix	note
+extended release	Dosage formulation suffix extended release
+controlled release	Dosage formulation suffix controlled release
+modified release	Dosage formulation suffix modified release
+slow release	Dosage formulation suffix slow release
+release	Dosage formulation suffix release
+anhydrous	Dosage formulation suffix anhydrous
+forte	Dosage formulation suffix forte
+continus	Dosage formulation suffix continus
+plus	Dosage formulation suffix plus
+kit	Dosage formulation suffix kit
+ret	Dosage formulation suffix ret
+la	Dosage formulation suffix la
+xr	Dosage formulation suffix xr
+sr	Dosage formulation suffix sr
+er	Dosage formulation suffix er
+ec	Dosage formulation suffix ec
+xl	Dosage formulation suffix xl
+dr	Dosage formulation suffix dr
+cr	Dosage formulation suffix cr
+mr	Dosage formulation suffix mr
+ir	Dosage formulation suffix ir
+pr	Dosage formulation suffix pr
+odt	Dosage formulation suffix odt
+odis	Dosage formulation suffix odis
+liposomal	Dosage formulation suffix liposomal
+nanoparticle	Dosage formulation suffix nanoparticle
+inj	Dosage formulation suffix inj
+susp	Dosage formulation suffix susp
+soln	Dosage formulation suffix soln
+injection	Dosage formulation suffix injection
+suspension	Dosage formulation suffix suspension
+solution	Dosage formulation suffix solution
+ophthalmic	Dosage formulation suffix ophthalmic
+otic	Dosage formulation suffix otic
+topical	Dosage formulation suffix topical
+cream	Dosage formulation suffix cream
+ointment	Dosage formulation suffix ointment
+gel	Dosage formulation suffix gel
+lotion	Dosage formulation suffix lotion
+civ	Dosage formulation suffix civ
+ciii	Dosage formulation suffix ciii
+cii	Dosage formulation suffix cii
+cv	Dosage formulation suffix cv
+accord	Dosage formulation suffix accord
+teva	Dosage formulation suffix teva
+mylan	Dosage formulation suffix mylan
+sandoz	Dosage formulation suffix sandoz
+apotex	Dosage formulation suffix apotex
+pfizer	Dosage formulation suffix pfizer
+novartis	Dosage formulation suffix novartis
+roche	Dosage formulation suffix roche
+bayer	Dosage formulation suffix bayer
+sanofi	Dosage formulation suffix sanofi
+gsk	Dosage formulation suffix gsk
+takeda	Dosage formulation suffix takeda
+astrazeneca	Dosage formulation suffix astrazeneca
+merck	Dosage formulation suffix merck
+bms	Dosage formulation suffix bms
+lilly	Dosage formulation suffix lilly

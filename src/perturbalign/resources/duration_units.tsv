@@ -1,0 +1,32 @@
+# Time and Exposure Duration Units
+# Columns: surface, canonical, kind
+surface	canonical	kind
+hours	h	hour
+hour	h	hour
+hrs	h	hour
+hr	h	hour
+h	h	hour
+minutes	min	minute
+minute	min	minute
+mins	min	minute
+min	min	minute
+days	d	day
+day	d	day
+d	d	day
+weeks	wk	week
+week	wk	week
+wks	wk	week
+wk	wk	week
+months	mo	month
+month	mo	month
+mos	mo	month
+mo	mo	month
+years	yr	year
+year	yr	year
+yrs	yr	year
+yr	yr	year
+seconds	s	second
+second	s	second
+secs	s	second
+sec	s	second
+s	s	second

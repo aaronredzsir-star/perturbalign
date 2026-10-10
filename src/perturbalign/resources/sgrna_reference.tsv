@@ -1,0 +1,14 @@
+# CRISPR sgRNA 20bp Protospacer Reference Sequences
+# Columns: protospacer_seq, gene_symbol, species, source, description
+protospacer_seq	gene_symbol	species	source	description
+GACCGGAACGATCTCGCGTA	NT_CONTROL	human	Brunello	Non-targeting negative control sgRNA 1
+CGTTAATCGCGTATAATACG	NT_CONTROL	human	Brunello	Non-targeting negative control sgRNA 2
+AAATGTGAGTGTGTGTGAGT	NT_CONTROL	human	GeCKO	Non-targeting control sequence
+CCCGGACGATATTGAACAAT	TP53	human	Brunello	Human TP53 targeting guide
+GGAGCTGGTTAGCTTGTAGA	MYC	human	Brunello	Human MYC proto-oncogene guide
+GTGAGTGCAGTGTATCTGGA	EGFR	human	Brunello	Human EGFR receptor tyrosine kinase guide
+ACTGGTACTCTTCAGAAAGG	BRCA1	human	Brunello	Human BRCA1 DNA repair guide
+TGTGCATGGCGCTTCACCAA	KRAS	human	Brunello	Human KRAS GTPase oncogene guide
+CACCCTGAAGGACCTGGTGA	GAPDH	human	Calabrese	Human GAPDH essential housekeeping gene guide
+AGCTACGAGCTGCCTGACGG	ACTB	human	Calabrese	Human ACTB actin beta housekeeping guide
+GTCACCAATCCTGTCCCTAG	AAVS1	human	SafeHarbor	Human AAVS1 genomic safe harbor control locus

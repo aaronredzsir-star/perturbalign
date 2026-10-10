@@ -1,0 +1,81 @@
+# Environmental, Physical, and Microenvironmental Stress Tokens
+# Columns: token, canonical_name, category
+token	canonical_name	category
+hypoxia	Hypoxia	oxygen
+anoxia	Anoxia	oxygen
+normoxia	Normoxia	oxygen
+hyperoxia	Hyperoxia	oxygen
+physioxia	Physioxia	oxygen
+heat shock	Heat shock	temperature
+heat stress	Heat shock	temperature
+hyperthermia	Hyperthermia	temperature
+cold shock	Cold shock	temperature
+hypothermia	Hypothermia	temperature
+radiation	Radiation	radiation
+gamma irradiation	Gamma irradiation	radiation
+gamma radiation	Gamma irradiation	radiation
+uv irradiation	UV irradiation	radiation
+uv-c	UVC irradiation	radiation
+uvb	UVB irradiation	radiation
+uva	UVA irradiation	radiation
+x-ray	X-ray irradiation	radiation
+ionizing radiation	Ionizing radiation	radiation
+proton beam	Proton beam irradiation	radiation
+starvation	Starvation	nutrient
+serum starvation	Serum starvation	nutrient
+serum-free	Serum starvation	nutrient
+glucose starvation	Glucose starvation	nutrient
+glucose deprivation	Glucose starvation	nutrient
+amino acid starvation	Amino acid starvation	nutrient
+glutamine deprivation	Glutamine deprivation	nutrient
+glutamine starvation	Glutamine deprivation	nutrient
+methionine deprivation	Methionine starvation	nutrient
+arginine deprivation	Arginine starvation	nutrient
+cystine deprivation	Cystine starvation	nutrient
+leucine deprivation	Leucine starvation	nutrient
+iron starvation	Iron starvation	nutrient
+iron depletion	Iron starvation	nutrient
+lipid depletion	Lipid starvation	nutrient
+ebss	Earle's Balanced Salt Solution starvation	nutrient
+hbss	Hank's Balanced Salt Solution starvation	nutrient
+osmotic shock	Osmotic shock	osmotic
+osmotic stress	Osmotic stress	osmotic
+hyperosmotic	Hyperosmotic stress	osmotic
+hypoosmotic	Hypoosmotic stress	osmotic
+hypertonic	Hypertonic stress	osmotic
+hypotonic	Hypotonic stress	osmotic
+sorbitol stress	Sorbitol osmotic stress	osmotic
+mannitol stress	Mannitol osmotic stress	osmotic
+sucrose stress	Sucrose osmotic stress	osmotic
+shear stress	Shear stress	mechanical
+fluid shear stress	Fluid shear stress	mechanical
+mechanical stretch	Mechanical stretch	mechanical
+cyclic stretch	Cyclic mechanical stretch	mechanical
+stiffness	Matrix stiffness	mechanical
+matrix stiffness	Matrix stiffness	mechanical
+acidosis	Acidosis	ph
+lactic acidosis	Lactic acidosis	ph
+alkalosis	Alkalosis	ph
+er stress	Endoplasmic reticulum stress	cellular_stress
+oxidative stress	Oxidative stress	cellular_stress
+dna damage	DNA damage stress	cellular_stress
+mitochondrial stress	Mitochondrial stress	cellular_stress
+ferroptosis	Ferroptosis induction	cellular_stress
+tunicamycin	Tunicamycin-induced ER stress	cellular_stress
+thapsigargin	Thapsigargin-induced ER stress	cellular_stress
+brefeldin a	Brefeldin A Golgi stress	cellular_stress
+dtt stress	DTT reductive stress	cellular_stress
+hydrogen peroxide	Hydrogen peroxide oxidative stress	cellular_stress
+h2o2	H2O2 oxidative stress	cellular_stress
+menadione	Menadione oxidative stress	cellular_stress
+paraquat	Paraquat superoxide stress	cellular_stress
+rotenone	Rotenone mitochondrial stress	cellular_stress
+sodium arsenite	Sodium arsenite stress granule induction	cellular_stress
+erastin	Erastin-induced ferroptosis	cellular_stress
+rsl3	RSL3-induced ferroptosis	cellular_stress
+contact inhibition	Contact inhibition	mechanical
+high cell density	High cell density stress	density
+hydrostatic pressure	Hydrostatic pressure	mechanical
+compression	Mechanical compression	mechanical
+shear	Shear stress	mechanical
+

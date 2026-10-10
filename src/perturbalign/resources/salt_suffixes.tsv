@@ -1,0 +1,137 @@
+# Chemical Counterion and Salt Suffixes
+# Columns: suffix, note
+suffix	note
+HCl	hydrochloride
+hydrochloride	hydrochloride
+dihydrochloride	dihydrochloride
+trihydrochloride	trihydrochloride (e.g. ABT 724 trihydrochloride)
+tetrahydrochloride	tetrahydrochloride
+2HCl	2HCl
+3HCl	3HCl
+xHCl	xHCl (any multiple, e.g. 2HCl/3HCl)
+xHBr	xHBr (any multiple)
+HBr	hydrobromide
+hydrobromide	hydrobromide
+dihydrobromide	dihydrobromide (e.g. alpha-methylhistamine dihydrobromide)
+mesylate	mesylate
+dimesylate	dimesylate salt (e.g. GZD824 dimesylate)
+mesilate	mesilate (INN variant of mesylate)
+methanesulfonate	methanesulfonate (full name of mesylate)
+besylate	besylate
+tosylate	tosylate
+ditosylate	ditosylate (di-tosylate, e.g. lapatinib ditosylate)
+maleate	maleate
+dimaleate	dimaleate salt (e.g. azatadine dimaleate)
+fumarate	fumarate
+hemifumarate	hemifumarate (half-fumarate, e.g. aliskiren hemifumarate)
+sulfate	sulfate
+sulphate	sulphate (variant)
+hemisulfate	hemisulfate (half-sulfate, e.g. arfolitixorin hemisulfate)
+phosphate	phosphate
+diphosphate	diphosphate salt (e.g. adenosine diphosphate)
+citrate	citrate
+tartrate	tartrate
+bitartrate	bitartrate (e.g. metaraminol bitartrate)
+acetate	acetate
+diacetate	diacetate ester (e.g. diflorasone diacetate)
+tetraacetate	tetraacetate ester (e.g. taxa-4,11-diene tetraacetate)
+propionate	propionate
+dipropionate	dipropionate (e.g. beclomethasone dipropionate)
+lactate	lactate
+succinate	succinate
+hemisuccinate	hemisuccinate (half-succinate, e.g. estradiol hemisuccinate)
+malate	malate
+benzoate	benzoate
+camsylate	camsylate
+camphorsulfonate	camphorsulfonate
+esylate	esylate
+ethanesulfonate	ethanesulfonate
+napadisylate	napadisylate
+napadisilate	napadisilate
+pamoate	pamoate
+stearate	stearate
+nitrate	nitrate
+dinitrate	dinitrate (nitrate ester, e.g. isosorbide dinitrate)
+sodium	sodium salt
+potassium	potassium salt
+calcium	calcium salt
+magnesium	magnesium salt
+zinc	zinc salt
+dihydrate	dihydrate
+trihydrate	trihydrate
+hydrate	hydrate
+monohydrate	monohydrate
+sesquihydrate	sesquihydrate
+hemihydrate	hemihydrate (0.5 hydrate, e.g. estradiol hemihydrate)
+tetrahydrate	tetrahydrate
+pentahydrate	pentahydrate
+hexahydrate	hexahydrate
+heptahydrate	heptahydrate
+disodium	disodium salt
+trisodium	trisodium salt
+tetrasodium	tetrasodium salt
+monosodium	monosodium salt
+free base	free base form (e.g. SCH-15719W FREE BASE)
+sodium salt	compound salt annotation (e.g. FPL-55712 SODIUM SALT)
+potassium salt	compound salt annotation
+calcium salt	compound salt annotation
+magnesium salt	compound salt annotation
+zinc salt	compound salt annotation
+disodium salt	compound salt annotation (e.g. EDTA disodium salt)
+trisodium salt	compound salt annotation
+tetrasodium salt	compound salt annotation
+monosodium salt	compound salt annotation
+monohydrochloride	monohydrochloride (e.g. vancomycin monohydrochloride)
+gluconate	gluconate salt (e.g. chlorhexidine gluconate)
+glucoheptonate	glucoheptonate salt
+lactobionate	lactobionate salt (e.g. erythromycin lactobionate)
+trifluoroacetate	trifluoroacetate salt (e.g. ADH-1 trifluoroacetate)
+gallate	gallate ester (e.g. epigallocatechin gallate)
+nicotinate	nicotinate ester (e.g. inositol nicotinate)
+valerate	valerate ester (e.g. betamethasone valerate)
+butyrate	butyrate ester (e.g. hydrocortisone butyrate)
+caproate	caproate ester (e.g. hydroxyprogesterone caproate)
+enanthate	enanthate ester (e.g. testosterone enanthate)
+undecylate	undecylate ester
+decanoate	decanoate ester (e.g. fluphenazine decanoate)
+acetonide	acetonide ester (e.g. triamcinolone acetonide)
+salicylate	salicylate salt (e.g. benzydamine salicylate)
+palmitate	palmitate ester (e.g. retinyl palmitate)
+phthalate	phthalate ester (e.g. diisopropyl phthalate)
+pyrophosphate	pyrophosphate salt (e.g. geranylgeranyl pyrophosphate)
+adipate	adipate salt (e.g. AB-106 ADIPATE)
+tromethamine	tromethamine salt (Tris salt, e.g. ketorolac tromethamine)
+trometamol	trometamol (INN for tromethamine)
+meglumine	meglumine salt (N-methylglucamine)
+isethionate	isethionate salt (e.g. pentamidine isethionate)
+edisylate	edisylate salt (ethane-1,2-disulfonate)
+cyclamate	cyclamate salt
+oxalate	oxalate salt (e.g. escitalopram oxalate)
+malonate	malonate salt
+aspartate	aspartate salt
+glutamate	glutamate salt
+glycolate	glycolate salt
+xinafoate	xinafoate (1-hydroxy-2-naphthoate, e.g. salmeterol xinafoate)
+hibenzate	hibenzate (2-(4-hydroxybenzoyl)benzoate)
+pivalate	pivalate ester
+crotonate	crotonate
+glutarate	glutarate
+levulinate	levulinate
+pantothenate	pantothenate
+gluceptate	gluceptate
+glycinate	glycinate
+lysinate	lysinate
+arginate	arginate
+choline	choline salt
+benzenesulfonate	benzenesulfonate (full besylate)
+naphthalenesulfonate	naphthalenesulfonate
+camphorate	camphorate
+polistirex	polistirex (sulfonated styrene-divinylbenzene resin complex)
+resinate	resinate (ion exchange resin complex)
+undecanoate	undecanoate ester
+cypionate	cypionate ester (e.g. testosterone cypionate)
+oenanthate	oenanthate ester
+aceturate	aceturate
+bromide	bromide salt (e.g. pyridinium bromide, atropine methylbromide)
+iodide	iodide salt (e.g. piperazinium iodide, thiamine iodide)
+fluoride	fluoride salt (e.g. sodium fluoride, aluminum fluoride)

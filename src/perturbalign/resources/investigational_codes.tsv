@@ -1,0 +1,180 @@
+# Investigational Drug and Laboratory Research Codes
+# Columns: code, canonical_name, targets, class_name, developer, smiles
+code	canonical_name	targets	class_name	developer	smiles
+AZD6244	Selumetinib	MAP2K1;MAP2K2	MEK inhibitor	AstraZeneca	Cc1c(c(ccc1Nc2c(cc(cc2F)Br)Cl)C(=O)NOCCO)F
+AZD-6244	Selumetinib	MAP2K1;MAP2K2	MEK inhibitor	AstraZeneca	Cc1c(c(ccc1Nc2c(cc(cc2F)Br)Cl)C(=O)NOCCO)F
+AZD9291	Osimertinib	EGFR	EGFR T790M inhibitor	AstraZeneca	CN(C)CC(=O)Nc1cc(Nc2ncc(c(n2)c3cn(C)c4ccccc34)Cl)c(cc1OC)N(C)CCN(C)C
+AZD-9291	Osimertinib	EGFR	EGFR T790M inhibitor	AstraZeneca	CN(C)CC(=O)Nc1cc(Nc2ncc(c(n2)c3cn(C)c4ccccc34)Cl)c(cc1OC)N(C)CCN(C)C
+AZD2281	Olaparib	PARP1;PARP2	PARP inhibitor	AstraZeneca	O=C(c1cc(Cc2n[nH]c(=O)c3ccccc23)ccc1F)N4CCN(C(=O)C5CC5)CC4
+AZD-2281	Olaparib	PARP1;PARP2	PARP inhibitor	AstraZeneca	O=C(c1cc(Cc2n[nH]c(=O)c3ccccc23)ccc1F)N4CCN(C(=O)C5CC5)CC4
+AZD8055	AZD8055	MTOR	mTOR kinase inhibitor	AstraZeneca	Cc1ccc(cc1)c2nc3c(ncn3c4ccc(cc4)N5CCOCC5)c6ccccc26
+AZD-8055	AZD8055	MTOR	mTOR kinase inhibitor	AstraZeneca	Cc1ccc(cc1)c2nc3c(ncn3c4ccc(cc4)N5CCOCC5)c6ccccc26
+AZD5363	Capivasertib	AKT1;AKT2;AKT3	AKT inhibitor	AstraZeneca	CC(C)N1CCC(CC1)(c2ccc(cc2)C3CCNCC3)C(=O)Nc4ccc(cn4)Cl
+AZD-5363	Capivasertib	AKT1;AKT2;AKT3	AKT inhibitor	AstraZeneca	CC(C)N1CCC(CC1)(c2ccc(cc2)C3CCNCC3)C(=O)Nc4ccc(cn4)Cl
+AZD1775	Adavosertib	WEE1	WEE1 kinase inhibitor	AstraZeneca	CC(C)(C1=CC2=CN=C(N2C=C1)NC3=NC=C(C=N3)N4CCN(CC4)C)O
+AZD-1775	Adavosertib	WEE1	WEE1 kinase inhibitor	AstraZeneca	CC(C)(C1=CC2=CN=C(N2C=C1)NC3=NC=C(C=N3)N4CCN(CC4)C)O
+AZD6738	Ceralasertib	ATR	ATR kinase inhibitor	AstraZeneca	CS(=O)(=O)c1ccc(c(c1)C(=O)c2c[nH]c3ncc(cc23)c4ccc(cc4)Cl)F
+AZD-6738	Ceralasertib	ATR	ATR kinase inhibitor	AstraZeneca	CS(=O)(=O)c1ccc(c(c1)C(=O)c2c[nH]c3ncc(cc23)c4ccc(cc4)Cl)F
+GDC-0941	Pictilisib	PIK3CA;PIK3CB;PIK3CD;PIK3CG	PI3K inhibitor	Genentech	CS(=O)(=O)N1CCN(CC1)Cc2ccc(cc2)c3nc4c(s3)nc(nc4N5CCOCC5)c6ccncc6
+GDC0941	Pictilisib	PIK3CA;PIK3CB;PIK3CD;PIK3CG	PI3K inhibitor	Genentech	CS(=O)(=O)N1CCN(CC1)Cc2ccc(cc2)c3nc4c(s3)nc(nc4N5CCOCC5)c6ccncc6
+GDC-0068	Ipatasertib	AKT1;AKT2;AKT3	AKT inhibitor	Genentech	C1CC(C1)c2ccc(cc2)C3(CCNCC3)C(=O)Nc4ccc(cn4)Cl
+GDC0068	Ipatasertib	AKT1;AKT2;AKT3	AKT inhibitor	Genentech	C1CC(C1)c2ccc(cc2)C3(CCNCC3)C(=O)Nc4ccc(cn4)Cl
+GDC-0980	Apitolisib	PIK3CA;MTOR	Dual PI3K/mTOR inhibitor	Genentech
+GDC0980	Apitolisib	PIK3CA;MTOR	Dual PI3K/mTOR inhibitor	Genentech
+GDC-0449	Vismodegib	SMO	Hedgehog pathway inhibitor	Genentech	CS(=O)(=O)c1ccc(cc1)C(=O)Nc2ccc(c(c2)Cl)c3ccccn3
+GDC0449	Vismodegib	SMO	Hedgehog pathway inhibitor	Genentech	CS(=O)(=O)c1ccc(cc1)C(=O)Nc2ccc(c(c2)Cl)c3ccccn3
+GDC-0199	Venetoclax	BCL2	BCL-2 inhibitor	Genentech	CC1(CCC(=C(C1)c2ccc(cc2)Cl)CN3CCN(CC3)c4ccc(cc4)C(=O)NS(=O)(=O)c5ccc(cc5)NCC6CCOCC6)C
+GDC0199	Venetoclax	BCL2	BCL-2 inhibitor	Genentech	CC1(CCC(=C(C1)c2ccc(cc2)Cl)CN3CCN(CC3)c4ccc(cc4)C(=O)NS(=O)(=O)c5ccc(cc5)NCC6CCOCC6)C
+GDC-0879	GDC-0879	BRAF	B-Raf kinase inhibitor	Genentech
+PD-0332991	Palbociclib	CDK4;CDK6	CDK4/6 inhibitor	Pfizer	CC(=O)c1c(C)c2cnc(Nc3ccc(N4CCNCC4)cn3)nc2n(C5CCCC5)c1=O
+PD0332991	Palbociclib	CDK4;CDK6	CDK4/6 inhibitor	Pfizer	CC(=O)c1c(C)c2cnc(Nc3ccc(N4CCNCC4)cn3)nc2n(C5CCCC5)c1=O
+PD-184352	CI-1040	MAP2K1;MAP2K2	MEK inhibitor	Pfizer	c1cc(c(c(c1F)F)I)Nc2c(c(cc(c2F)F)C(=O)NOCC)F
+PD184352	CI-1040	MAP2K1;MAP2K2	MEK inhibitor	Pfizer	c1cc(c(c(c1F)F)I)Nc2c(c(cc(c2F)F)C(=O)NOCC)F
+PD-98059	PD98059	MAP2K1;MAP2K2	MEK inhibitor	Parke-Davis	c1ccc(c(c1)O)c2cc(=O)c3ccccc3o2
+PD98059	PD98059	MAP2K1;MAP2K2	MEK inhibitor	Parke-Davis	c1ccc(c(c1)O)c2cc(=O)c3ccccc3o2
+PF-02341066	Crizotinib	ALK;MET;ROS1	ALK/MET/ROS1 inhibitor	Pfizer	Cc1cc(cnc1N)c2c(c(cc(c2Cl)F)OC(C)c3c(ccc(c3Cl)F)Cl)
+PF02341066	Crizotinib	ALK;MET;ROS1	ALK/MET/ROS1 inhibitor	Pfizer	Cc1cc(cnc1N)c2c(c(cc(c2Cl)F)OC(C)c3c(ccc(c3Cl)F)Cl)
+PF-06463922	Lorlatinib	ALK;ROS1	ALK/ROS1 inhibitor	Pfizer	C[C@H]1c2cc(ccc2OCc3c(cncc3Cl)N(C)C(=O)c4cc(F)cc(c4)O1)C#N
+PF06463922	Lorlatinib	ALK;ROS1	ALK/ROS1 inhibitor	Pfizer	C[C@H]1c2cc(ccc2OCc3c(cncc3Cl)N(C)C(=O)c4cc(F)cc(c4)O1)C#N
+PF-04691502	Gedatolisib	PIK3CA;MTOR	Dual PI3K/mTOR inhibitor	Pfizer
+PF04691502	Gedatolisib	PIK3CA;MTOR	Dual PI3K/mTOR inhibitor	Pfizer
+PF-04449913	Glasdegib	SMO	Hedgehog inhibitor	Pfizer
+PF04449913	Glasdegib	SMO	Hedgehog inhibitor	Pfizer
+BMS-354825	Dasatinib	BCR;ABL1;SRC;KIT	BCR-ABL/SRC kinase inhibitor	Bristol-Myers Squibb	Cc1cccc(c1Cl)NC(=O)c2cnc(s2)Nc3cc(nc(n3)C)N4CCN(CCO)CC4
+BMS354825	Dasatinib	BCR;ABL1;SRC;KIT	BCR-ABL/SRC kinase inhibitor	Bristol-Myers Squibb	Cc1cccc(c1Cl)NC(=O)c2cnc(s2)Nc3cc(nc(n3)C)N4CCN(CCO)CC4
+BMS-754807	BMS-754807	IGF1R;INSR	IGF-1R/IR inhibitor	Bristol-Myers Squibb	Cc1cc(cnc1NC2CC2)n3cc(c(n3)c4ccccc4F)C(=O)N
+BMS754807	BMS-754807	IGF1R;INSR	IGF-1R/IR inhibitor	Bristol-Myers Squibb	Cc1cc(cnc1NC2CC2)n3cc(c(n3)c4ccccc4F)C(=O)N
+BMS-906024	BMS-906024	NOTCH1	gamma-secretase inhibitor	Bristol-Myers Squibb
+BMS906024	BMS-906024	NOTCH1	gamma-secretase inhibitor	Bristol-Myers Squibb
+ABT-263	Navitoclax	BCL2;BCL2L1	BCL-2/BCL-xL inhibitor	AbbVie	CC1(C)CCC(CN2CCN(c3ccc(C(=O)NS(=O)(=O)c4ccc(cc4)NC(Cc5ccccc5)CCN6CCOCC6)cc3C(=O)NS(=O)(=O)c7ccc(cc7)Cl)CC2)=C(c8ccc(Cl)cc8)C1
+ABT263	Navitoclax	BCL2;BCL2L1	BCL-2/BCL-xL inhibitor	AbbVie	CC1(C)CCC(CN2CCN(c3ccc(C(=O)NS(=O)(=O)c4ccc(cc4)NC(Cc5ccccc5)CCN6CCOCC6)cc3C(=O)NS(=O)(=O)c7ccc(cc7)Cl)CC2)=C(c8ccc(Cl)cc8)C1
+ABT-199	Venetoclax	BCL2	BCL-2 inhibitor	AbbVie	CC1(CCC(=C(C1)c2ccc(cc2)Cl)CN3CCN(CC3)c4ccc(cc4)C(=O)NS(=O)(=O)c5ccc(cc5)NCC6CCOCC6)C
+ABT199	Venetoclax	BCL2	BCL-2 inhibitor	AbbVie	CC1(CCC(=C(C1)c2ccc(cc2)Cl)CN3CCN(CC3)c4ccc(cc4)C(=O)NS(=O)(=O)c5ccc(cc5)NCC6CCOCC6)C
+ABT-737	ABT-737	BCL2;BCL2L1;BCL2L2	BCL-2/BCL-xL inhibitor	AbbVie
+ABT737	ABT-737	BCL2;BCL2L1;BCL2L2	BCL-2/BCL-xL inhibitor	AbbVie
+ABT-869	Linifanib	FLT3;KDR	Receptor tyrosine kinase inhibitor	AbbVie	CNC(=O)Nc1ccc(cc1)Oc2ccnc3cc(ccc23)NC(=O)N
+ABT869	Linifanib	FLT3;KDR	Receptor tyrosine kinase inhibitor	AbbVie	CNC(=O)Nc1ccc(cc1)Oc2ccnc3cc(ccc23)NC(=O)N
+BAY 43-9006	Sorafenib	BRAF;RAF1;KDR	VEGFR/RAF multikinase inhibitor	Bayer	CNC(=O)c1cc(ccn1)Oc2ccc(cc2)NC(=O)Nc3ccc(c(c3)Cl)C(F)(F)F
+BAY43-9006	Sorafenib	BRAF;RAF1;KDR	VEGFR/RAF multikinase inhibitor	Bayer	CNC(=O)c1cc(ccn1)Oc2ccc(cc2)NC(=O)Nc3ccc(c(c3)Cl)C(F)(F)F
+BAY-43-9006	Sorafenib	BRAF;RAF1;KDR	VEGFR/RAF multikinase inhibitor	Bayer	CNC(=O)c1cc(ccn1)Oc2ccc(cc2)NC(=O)Nc3ccc(c(c3)Cl)C(F)(F)F
+BAY 80-6946	Copanlisib	PIK3CA;PIK3CD	PI3K alpha/delta inhibitor	Bayer
+BAY80-6946	Copanlisib	PIK3CA;PIK3CD	PI3K alpha/delta inhibitor	Bayer
+BAY 73-4506	Regorafenib	KDR;TEK;KIT;RET	Multikinase inhibitor	Bayer
+BAY73-4506	Regorafenib	KDR;TEK;KIT;RET	Multikinase inhibitor	Bayer
+BAY 11-7082	BAY 11-7082	IKBKB;NFKB1	NF-kB pathway inhibitor	Bayer
+BAY11-7082	BAY 11-7082	IKBKB;NFKB1	NF-kB pathway inhibitor	Bayer
+MK-2206	MK-2206	AKT1;AKT2;AKT3	Allosteric AKT inhibitor	Merck
+MK2206	MK-2206	AKT1;AKT2;AKT3	Allosteric AKT inhibitor	Merck
+MK-0457	Tozasertib	AURKA;AURKB;AURKC;ABL1	Pan-Aurora kinase inhibitor	Merck	Cc1cc(nc(n1)Nc2ccc(cc2)N3CCN(CC3)C)NC(=O)c4ccccc4
+MK0457	Tozasertib	AURKA;AURKB;AURKC;ABL1	Pan-Aurora kinase inhibitor	Merck	Cc1cc(nc(n1)Nc2ccc(cc2)N3CCN(CC3)C)NC(=O)c4ccccc4
+MK-1775	Adavosertib	WEE1	WEE1 kinase inhibitor	Merck	CC(C)(C1=CC2=CN=C(N2C=C1)NC3=NC=C(C=N3)N4CCN(CC4)C)O
+MK1775	Adavosertib	WEE1	WEE1 kinase inhibitor	Merck	CC(C)(C1=CC2=CN=C(N2C=C1)NC3=NC=C(C=N3)N4CCN(CC4)C)O
+MK-8776	MK-8776	CHEK1	Chk1 kinase inhibitor	Merck
+MK8776	MK-8776	CHEK1	Chk1 kinase inhibitor	Merck
+MK-3475	Pembrolizumab	PDCD1	PD-1 immune checkpoint inhibitor	Merck
+MK3475	Pembrolizumab	PDCD1	PD-1 immune checkpoint inhibitor	Merck
+NVP-BEZ235	Dactolisib	PIK3CA;PIK3CB;MTOR	Dual PI3K/mTOR inhibitor	Novartis
+NVPBEZ235	Dactolisib	PIK3CA;PIK3CB;MTOR	Dual PI3K/mTOR inhibitor	Novartis
+BEZ235	Dactolisib	PIK3CA;PIK3CB;MTOR	Dual PI3K/mTOR inhibitor	Novartis
+NVP-TAE684	TAE684	ALK	ALK kinase inhibitor	Novartis
+NVPTAE684	TAE684	ALK	ALK kinase inhibitor	Novartis
+TAE684	TAE684	ALK	ALK kinase inhibitor	Novartis
+NVP-BGJ398	Infigratinib	FGFR1;FGFR2;FGFR3	FGFR kinase inhibitor	Novartis
+NVPBGJ398	Infigratinib	FGFR1;FGFR2;FGFR3	FGFR kinase inhibitor	Novartis
+BGJ398	Infigratinib	FGFR1;FGFR2;FGFR3	FGFR kinase inhibitor	Novartis
+NVP-AUY922	Luminespib	HSP90AA1;HSP90AB1	HSP90 inhibitor	Novartis
+NVPAUY922	Luminespib	HSP90AA1;HSP90AB1	HSP90 inhibitor	Novartis
+AUY922	Luminespib	HSP90AA1;HSP90AB1	HSP90 inhibitor	Novartis
+NVP-LBH589	Panobinostat	HDAC1;HDAC2;HDAC3	Pan-HDAC inhibitor	Novartis
+NVPLBH589	Panobinostat	HDAC1;HDAC2;HDAC3	Pan-HDAC inhibitor	Novartis
+LBH589	Panobinostat	HDAC1;HDAC2;HDAC3	Pan-HDAC inhibitor	Novartis
+BKM120	Buparlisib	PIK3CA;PIK3CB;PIK3CD;PIK3CG	Pan-PI3K inhibitor	Novartis
+BYL719	Alpelisib	PIK3CA	PI3K alpha inhibitor	Novartis
+LEE011	Ribociclib	CDK4;CDK6	CDK4/6 inhibitor	Novartis
+PLX-4032	Vemurafenib	BRAF	B-Raf V600E kinase inhibitor	Plexxikon	CCCS(=O)(=O)Nc1ccc(c(c1)C(=O)c2c[nH]c3ncc(cc23)c4ccc(cc4)Cl)F
+PLX4032	Vemurafenib	BRAF	B-Raf V600E kinase inhibitor	Plexxikon	CCCS(=O)(=O)Nc1ccc(c(c1)C(=O)c2c[nH]c3ncc(cc23)c4ccc(cc4)Cl)F
+PLX-4720	PLX-4720	BRAF	B-Raf V600E selective inhibitor	Plexxikon
+PLX4720	PLX-4720	BRAF	B-Raf V600E selective inhibitor	Plexxikon
+PLX-3397	Pexidartinib	CSF1R;KIT;FLT3	CSF1R/KIT kinase inhibitor	Plexxikon
+PLX3397	Pexidartinib	CSF1R;KIT;FLT3	CSF1R/KIT kinase inhibitor	Plexxikon
+GSK1120212	Trametinib	MAP2K1;MAP2K2	MEK1/2 inhibitor	GlaxoSmithKline	CC1=C(C(=O)N(C(=O)N1C2CC2)c3ccc(c(c3)I)Nc4c(c(c(c(c4F)F)F)F)F)NC(=O)C
+GSK-1120212	Trametinib	MAP2K1;MAP2K2	MEK1/2 inhibitor	GlaxoSmithKline	CC1=C(C(=O)N(C(=O)N1C2CC2)c3ccc(c(c3)I)Nc4c(c(c(c(c4F)F)F)F)F)NC(=O)C
+GSK2118436	Dabrafenib	BRAF	B-Raf kinase inhibitor	GlaxoSmithKline	CC(C)(C)c1nc(c(s1)c2ccnc(n2)N)c3c(c(cc(c3)S(=O)(=O)NC(C)C)F)F
+GSK-2118436	Dabrafenib	BRAF	B-Raf kinase inhibitor	GlaxoSmithKline	CC(C)(C)c1nc(c(s1)c2ccnc(n2)N)c3c(c(cc(c3)S(=O)(=O)NC(C)C)F)F
+GSK2126458	Omipalisib	PIK3CA;MTOR	Dual PI3K/mTOR inhibitor	GlaxoSmithKline
+GSK-2126458	Omipalisib	PIK3CA;MTOR	Dual PI3K/mTOR inhibitor	GlaxoSmithKline
+GSK461364	GSK461364	PLK1	Plk1 inhibitor	GlaxoSmithKline
+GSK-461364	GSK461364	PLK1	Plk1 inhibitor	GlaxoSmithKline
+GSK2879552	GSK2879552	KDM1A	LSD1 demethylase inhibitor	GlaxoSmithKline
+JNJ-38877605	JNJ-38877605	MET	c-Met kinase inhibitor	Janssen
+JNJ38877605	JNJ-38877605	MET	c-Met kinase inhibitor	Janssen
+JNJ-42756493	Erdafitinib	FGFR1;FGFR2;FGFR3;FGFR4	Pan-FGFR kinase inhibitor	Janssen
+JNJ42756493	Erdafitinib	FGFR1;FGFR2;FGFR3;FGFR4	Pan-FGFR kinase inhibitor	Janssen
+ARRY-142886	Selumetinib	MAP2K1;MAP2K2	MEK inhibitor	Array BioPharma	Cc1c(c(ccc1Nc2c(cc(cc2F)Br)Cl)C(=O)NOCCO)F
+ARRY142886	Selumetinib	MAP2K1;MAP2K2	MEK inhibitor	Array BioPharma	Cc1c(c(ccc1Nc2c(cc(cc2F)Br)Cl)C(=O)NOCCO)F
+ARRY-438162	Binimetinib	MAP2K1;MAP2K2	MEK inhibitor	Array BioPharma	Cc1c(c(c(c(c1N2C(=O)C(=C(C2=O)Cl)N)F)F)F)Br
+ARRY438162	Binimetinib	MAP2K1;MAP2K2	MEK inhibitor	Array BioPharma	Cc1c(c(c(c(c1N2C(=O)C(=C(C2=O)Cl)N)F)F)F)Br
+ARRY-520	Filanesib	KIF11	KSP/Eg5 kinesin inhibitor	Array BioPharma
+ARRY520	Filanesib	KIF11	KSP/Eg5 kinesin inhibitor	Array BioPharma
+SAR-405	SAR405	PIK3C3	Vps34 kinase inhibitor	Sanofi
+SAR405	SAR405	PIK3C3	Vps34 kinase inhibitor	Sanofi
+SAR-245408	Voxtalisib	PIK3CA;MTOR	Dual PI3K/mTOR inhibitor	Sanofi
+SAR245408	Voxtalisib	PIK3CA;MTOR	Dual PI3K/mTOR inhibitor	Sanofi
+LY294002	LY294002	PIK3CA;PIK3CB;PIK3CD	PI3K inhibitor	Eli Lilly
+LY-294002	LY294002	PIK3CA;PIK3CB;PIK3CD	PI3K inhibitor	Eli Lilly
+LY2835219	Abemaciclib	CDK4;CDK6	CDK4/6 inhibitor	Eli Lilly	CCN1CCN(CC1)Cc2ccc(cc2)Nc3ncc(c(n3)c4cc5c(nc4F)n(c(n5)C)C(C)C)F
+LY-2835219	Abemaciclib	CDK4;CDK6	CDK4/6 inhibitor	Eli Lilly	CCN1CCN(CC1)Cc2ccc(cc2)Nc3ncc(c(n3)c4cc5c(nc4F)n(c(n5)C)C(C)C)F
+RO-3306	RO-3306	CDK1	CDK1 kinase inhibitor	Roche	c1cc(c(c(c1)Cl)Cl)C=C2C(=O)Nc3cc(ccc23)S(=O)(=O)N
+RO3306	RO-3306	CDK1	CDK1 kinase inhibitor	Roche	c1cc(c(c(c1)Cl)Cl)C=C2C(=O)Nc3cc(ccc23)S(=O)(=O)N
+RO4929097	RO4929097	NOTCH1;PSEN1	gamma-secretase inhibitor	Roche	CC(C)(C(=O)Nc1ccc(c(c1)Cl)c2ncc(c(n2)c3ccccc3)F)F
+RO-4929097	RO4929097	NOTCH1;PSEN1	gamma-secretase inhibitor	Roche	CC(C)(C(=O)Nc1ccc(c(c1)Cl)c2ncc(c(n2)c3ccccc3)F)F
+VX-680	Tozasertib	AURKA;AURKB;AURKC;ABL1	Pan-Aurora kinase inhibitor	Vertex	Cc1cc(nc(n1)Nc2ccc(cc2)N3CCN(CC3)C)NC(=O)c4ccccc4
+VX680	Tozasertib	AURKA;AURKB;AURKC;ABL1	Pan-Aurora kinase inhibitor	Vertex	Cc1cc(nc(n1)Nc2ccc(cc2)N3CCN(CC3)C)NC(=O)c4ccccc4
+VX-745	Neflamapimod	MAPK14	p38 alpha MAPK inhibitor	Vertex
+VX745	Neflamapimod	MAPK14	p38 alpha MAPK inhibitor	Vertex
+VX-770	Ivacaftor	CFTR	CFTR potentiator	Vertex	CC(C)(C)c1ccc(c(c1O)C(C)(C)C)NC(=O)c2cnc3ccccc3c2=O
+VX770	Ivacaftor	CFTR	CFTR potentiator	Vertex	CC(C)(C)c1ccc(c(c1O)C(C)(C)C)NC(=O)c2cnc3ccccc3c2=O
+VX-809	Lumacaftor	CFTR	CFTR corrector	Vertex	CC1(C(=O)Nc2cc(ccc2O1)C3(CC3)c4ccc(cc4)C(=O)O)C
+VX809	Lumacaftor	CFTR	CFTR corrector	Vertex	CC1(C(=O)Nc2cc(ccc2O1)C3(CC3)c4ccc(cc4)C(=O)O)C
+SB-203580	SB203580	MAPK14	p38 MAPK inhibitor	SmithKline Beecham	Fc1ccc(cc1)c2nc(c([nH]2)c3ccncc3)c4ccc(cc4)S(=O)C
+SB203580	SB203580	MAPK14	p38 MAPK inhibitor	SmithKline Beecham	Fc1ccc(cc1)c2nc(c([nH]2)c3ccncc3)c4ccc(cc4)S(=O)C
+SB-431542	SB431542	TGFBR1	TGF-beta type I receptor inhibitor	GlaxoSmithKline	c1ccc(cc1)c2nc(c(s2)c3ccncc3)NC(=O)c4cccc(c4)O
+SB431542	SB431542	TGFBR1	TGF-beta type I receptor inhibitor	GlaxoSmithKline	c1ccc(cc1)c2nc(c(s2)c3ccncc3)NC(=O)c4cccc(c4)O
+SP600125	SP600125	MAPK8;MAPK9;MAPK10	JNK inhibitor	Celgene	c1ccc2c(c1)c3c([nH]2)cc(=O)[nH]c3
+SP-600125	SP600125	MAPK8;MAPK9;MAPK10	JNK inhibitor	Celgene	c1ccc2c(c1)c3c([nH]2)cc(=O)[nH]c3
+Y-27632	Y-27632	ROCK1;ROCK2	ROCK inhibitor	Yoshitomi	CC(C)NC(=O)c1ccc(cc1)NC(=O)c2ccncc2
+Y27632	Y-27632	ROCK1;ROCK2	ROCK inhibitor	Yoshitomi	CC(C)NC(=O)c1ccc(cc1)NC(=O)c2ccncc2
+BI-2536	BI-2536	PLK1	Plk1 inhibitor	Boehringer Ingelheim	CCN(C1CCN(CC1)C)C(=O)c2cc(ccc2NC3CC4CCC3C4)N
+BI2536	BI-2536	PLK1	Plk1 inhibitor	Boehringer Ingelheim	CCN(C1CCN(CC1)C)C(=O)c2cc(ccc2NC3CC4CCC3C4)N
+BI-6727	Volasertib	PLK1	Plk1 inhibitor	Boehringer Ingelheim	CCN(C1CCN(CC1)C)C(=O)c2cc(ccc2NC3CC4CCC3C4)N
+BI6727	Volasertib	PLK1	Plk1 inhibitor	Boehringer Ingelheim	CCN(C1CCN(CC1)C)C(=O)c2cc(ccc2NC3CC4CCC3C4)N
+BIBW-2992	Afatinib	EGFR;ERBB2;ERBB4	EGFR/HER2 irreversible inhibitor	Boehringer Ingelheim	CN(C)C/C=C/C(=O)Nc1cc2c(cc1O[C@H]3CCOC3)ncnc2Nc4ccc(c(c4)Cl)F
+BIBW2992	Afatinib	EGFR;ERBB2;ERBB4	EGFR/HER2 irreversible inhibitor	Boehringer Ingelheim	CN(C)C/C=C/C(=O)Nc1cc2c(cc1O[C@H]3CCOC3)ncnc2Nc4ccc(c(c4)Cl)F
+BIBF-1120	Nintedanib	KDR;PDGFRB;FGFR1	Triple angiokinase inhibitor	Boehringer Ingelheim	CN1CCN(CC1)Cc2ccc(cc2)NC(=O)c3ccc(cc3)Nc4c(c5ccccc5n4)C(=O)Nc6ccc(cc6)C(=O)OC
+BIBF1120	Nintedanib	KDR;PDGFRB;FGFR1	Triple angiokinase inhibitor	Boehringer Ingelheim	CN1CCN(CC1)Cc2ccc(cc2)NC(=O)c3ccc(cc3)Nc4c(c5ccccc5n4)C(=O)Nc6ccc(cc6)C(=O)OC
+CHIR-99021	CHIR-99021	GSK3A;GSK3B	GSK-3 alpha/beta inhibitor	Chiron	Cc1ncc(cn1)c2nc(nc(n2)Nc3ccc(cc3Cl)Cl)Nc4ccc(cc4)C#N
+CHIR99021	CHIR-99021	GSK3A;GSK3B	GSK-3 alpha/beta inhibitor	Chiron	Cc1ncc(cn1)c2nc(nc(n2)Nc3ccc(cc3Cl)Cl)Nc4ccc(cc4)C#N
+CI-1033	Canertinib	EGFR;ERBB2;ERBB4	Pan-erbB receptor tyrosine kinase inhibitor	Pfizer	C=CC(=O)Nc1cc2c(cc1OCCCN3CCOCC3)ncnc2Nc4ccc(c(c4)Cl)F
+CI1033	Canertinib	EGFR;ERBB2;ERBB4	Pan-erbB receptor tyrosine kinase inhibitor	Pfizer	C=CC(=O)Nc1cc2c(cc1OCCCN3CCOCC3)ncnc2Nc4ccc(c(c4)Cl)F
+CP-690550	Tofacitinib	JAK1;JAK3	Janus kinase inhibitor	Pfizer	CC1CCN(CC1N(C)c2ncnc3[nH]ccc23)C(=O)CC#N
+CP690550	Tofacitinib	JAK1;JAK3	Janus kinase inhibitor	Pfizer	CC1CCN(CC1N(C)c2ncnc3[nH]ccc23)C(=O)CC#N
+SU-11248	Sunitinib	KDR;KIT;FLT3;PDGFRA	Multikinase inhibitor	Sugen	CCN(CC)CCNC(=O)c1c(C)[nH]c(C=C2C(=O)Nc3ccc(F)cc23)c1C
+SU11248	Sunitinib	KDR;KIT;FLT3;PDGFRA	Multikinase inhibitor	Sugen	CCN(CC)CCNC(=O)c1c(C)[nH]c(C=C2C(=O)Nc3ccc(F)cc23)c1C
+SU-5416	Semaxanib	KDR	VEGFR2 inhibitor	Sugen	CC1=C(C(=O)Nc2ccccc12)C=C3C(=O)Nc4ccccc34
+SU5416	Semaxanib	KDR	VEGFR2 inhibitor	Sugen	CC1=C(C(=O)Nc2ccccc12)C=C3C(=O)Nc4ccccc34
+ZD-1839	Gefitinib	EGFR	EGFR tyrosine kinase inhibitor	AstraZeneca	COc1cc2ncnc(c2cc1OCCCN3CCOCC3)Nc4ccc(c(c4)Cl)F
+ZD1839	Gefitinib	EGFR	EGFR tyrosine kinase inhibitor	AstraZeneca	COc1cc2ncnc(c2cc1OCCCN3CCOCC3)Nc4ccc(c(c4)Cl)F
+ZD-6474	Vandetanib	RET;KDR;EGFR	VEGFR2/EGFR/RET inhibitor	AstraZeneca	COc1cc2ncnc(c2cc1OCC3CCN(CC3)C)Nc4ccc(c(c4)Br)F
+ZD6474	Vandetanib	RET;KDR;EGFR	VEGFR2/EGFR/RET inhibitor	AstraZeneca	COc1cc2ncnc(c2cc1OCC3CCN(CC3)C)Nc4ccc(c(c4)Br)F
+AG-1478	Tyrphostin AG 1478	EGFR	EGFR kinase inhibitor	Calbiochem
+AG1478	Tyrphostin AG 1478	EGFR	EGFR kinase inhibitor	Calbiochem
+AG-490	Tyrphostin AG 490	JAK2	JAK2 kinase inhibitor	Calbiochem
+AG490	Tyrphostin AG 490	JAK2	JAK2 kinase inhibitor	Calbiochem
+U-0126	U0126	MAP2K1;MAP2K2	MEK1/2 inhibitor	DuPont	N#CC(=C(C#N)Nc1ccccc1N)C(=C(C#N)Nc2ccccc2N)C#N
+U0126	U0126	MAP2K1;MAP2K2	MEK inhibitor	DuPont	N#CC(=C(C#N)Nc1ccccc1N)C(=C(C#N)Nc2ccccc2N)C#N
+WZ-4002	WZ4002	EGFR	EGFR T790M mutant inhibitor	Dana-Farber
+WZ4002	WZ4002	EGFR	EGFR T790M mutant inhibitor	Dana-Farber
+INCB-018424	Ruxolitinib	JAK1;JAK2	JAK1/JAK2 inhibitor	Incyte	N#CC[C@H](C1CCCC1)n2cc(cn2)c3ncnc4[nH]ccc34
+INCB018424	Ruxolitinib	JAK1;JAK2	JAK1/JAK2 inhibitor	Incyte	N#CC[C@H](C1CCCC1)n2cc(cn2)c3ncnc4[nH]ccc34
+INCB-024360	Epacadostat	IDO1	IDO1 inhibitor	Incyte	NS(=O)(=O)Nc1cc(F)c(Nc2nonc2N)c(F)c1
+INCB024360	Epacadostat	IDO1	IDO1 inhibitor	Incyte	NS(=O)(=O)Nc1cc(F)c(Nc2nonc2N)c(F)c1

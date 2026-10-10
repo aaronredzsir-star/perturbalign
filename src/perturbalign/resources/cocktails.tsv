@@ -1,0 +1,17 @@
+# Pre-mixed Cocktails, Differentiation Recipes, and Combination Regimens
+# Columns: cocktail_name, canonical_name, components, category, description
+cocktail_name	canonical_name	components	category	description
+m1 macrophage	M1 Macrophage Polarization Cocktail	LPS + IFN-gamma	immune_polarization	Classic pro-inflammatory M1 macrophage polarization recipe
+m1 polarization	M1 Macrophage Polarization Cocktail	LPS + IFN-gamma	immune_polarization	Classic pro-inflammatory M1 macrophage polarization recipe
+m2a macrophage	M2a Macrophage Polarization Cocktail	IL-4 + IL-13	immune_polarization	Alternative anti-inflammatory M2a macrophage polarization recipe
+m2a polarization	M2a Macrophage Polarization Cocktail	IL-4 + IL-13	immune_polarization	Alternative anti-inflammatory M2a macrophage polarization recipe
+m2c macrophage	M2c Macrophage Polarization Cocktail	IL-10 + TGF-beta1	immune_polarization	Deactivated/suppressive M2c macrophage polarization recipe
+m2c polarization	M2c Macrophage Polarization Cocktail	IL-10 + TGF-beta1	immune_polarization	Deactivated/suppressive M2c macrophage polarization recipe
+th1 differentiation	Th1 Differentiation Cocktail	IL-12 + anti-IL-4	tcell_polarization	T helper 1 cell differentiation cytokine cocktail
+th2 differentiation	Th2 Differentiation Cocktail	IL-4 + anti-IFN-gamma	tcell_polarization	T helper 2 cell differentiation cytokine cocktail
+th17 differentiation	Th17 Differentiation Cocktail	IL-6 + TGF-beta1 + IL-23	tcell_polarization	T helper 17 cell differentiation cytokine cocktail
+treg differentiation	Treg Differentiation Cocktail	IL-2 + TGF-beta1	tcell_polarization	Regulatory T cell differentiation cocktail
+cd8 activation	CD8 T-cell Activation Cocktail	anti-CD3 + anti-CD28	tcell_activation	T-cell receptor stimulation cocktail
+t-cell activation	T-cell Activation Cocktail	anti-CD3 + anti-CD28	tcell_activation	General TCR activation via CD3/CD28 antibodies
+pma ionomycin	PMA + Ionomycin Activation	PMA + Ionomycin	cell_activation	Phorbol 12-myristate 13-acetate and ionomycin potent lymphocyte activator
+reprogramming 7c	7C Chemical Reprogramming Cocktail	CHIR99021 + RepSox + Forskolin + Valproic acid + Parnate + TTNPB + Dznep	reprogramming	Deng lab 7-chemical cocktail inducing pluripotency (CiPSC)

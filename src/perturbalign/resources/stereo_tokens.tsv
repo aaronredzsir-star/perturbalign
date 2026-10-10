@@ -1,0 +1,25 @@
+# Stereochemistry and Isomerism Descriptors
+# Columns: token, category, description
+token	category	description
+cis	geometric	Stereochemical descriptor for geometric
+trans	geometric	Stereochemical descriptor for geometric
+exo	conformational	Stereochemical descriptor for conformational
+endo	conformational	Stereochemical descriptor for conformational
+syn	conformational	Stereochemical descriptor for conformational
+anti	conformational	Stereochemical descriptor for conformational
+ortho	regio	Stereochemical descriptor for regio
+meta	regio	Stereochemical descriptor for regio
+para	regio	Stereochemical descriptor for regio
+meso	optical	Stereochemical descriptor for optical
+rac	optical	Stereochemical descriptor for optical
+dl	optical	Stereochemical descriptor for optical
+d	optical	Stereochemical descriptor for optical
+l	optical	Stereochemical descriptor for optical
+r	optical	Stereochemical descriptor for optical
+s	optical	Stereochemical descriptor for optical
+e	geometric	Stereochemical descriptor for geometric
+z	geometric	Stereochemical descriptor for geometric
+alpha	descriptor	Stereochemical descriptor for descriptor
+beta	descriptor	Stereochemical descriptor for descriptor
+erythro	optical	Stereochemical descriptor for optical
+threo	optical	Stereochemical descriptor for optical

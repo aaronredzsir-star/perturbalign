@@ -1,0 +1,20 @@
+# Targeted Protein Degraders (PROTACs) and Molecular Glues E3 Ligase Ligands
+# Columns: token, canonical_name, e3_ligase, e3_ligand, target_protein, is_molecular_glue, description
+token	canonical_name	e3_ligase	e3_ligand	target_protein	is_molecular_glue	description
+arv-110	ARV-110	CRBN	Thalidomide derivative	AR	False	First-in-human oral PROTAC degrader of Androgen Receptor (Bavdegalutamide)
+bavdegalutamide	ARV-110	CRBN	Thalidomide derivative	AR	False	First-in-human oral PROTAC degrader of Androgen Receptor
+arv-471	ARV-471	VHL	VH032 derivative	ESR1	False	Oral PROTAC estrogen receptor degrader for ER+/HER2- breast cancer (Vepdegestrant)
+vepdegestrant	ARV-471	VHL	VH032 derivative	ESR1	False	Oral PROTAC estrogen receptor degrader
+dbet6	dBET6	CRBN	Thalidomide	BRD4	False	Potent CRBN-based BRD4 BET bromodomain degrader (Bradner lab)
+mz1	MZ1	VHL	VH032	BRD4	False	Selective VHL-based BRD4 degrader (Ciulli lab)
+arcc-4	ARCC-4	VHL	VH032	AR	False	VHL-recruiting AR PROTAC overcoming point mutations
+thalidomide	Thalidomide	CRBN	Thalidomide	IKZF1,IKZF3	True	Classic immunomodulatory drug acting as CRBN molecular glue
+lenalidomide	Lenalidomide	CRBN	Lenalidomide	IKZF1,IKZF3	True	CRBN molecular glue degrader of Ikaros and Aiolos
+pomalidomide	Pomalidomide	CRBN	Pomalidomide	IKZF1,IKZF3	True	High-affinity CRBN molecular glue degrader
+indisulam	Indisulam	DCAF15	Indisulam	RBM39	True	Sulfonamide molecular glue recruiting RBM39 to DCAF15 E3 ligase
+cc-90009	CC-90009	CRBN	CC-90009	GSPT1	True	Selective CRBN molecular glue degrader of translation termination factor GSPT1
+dtag-13	dTAG-13	CRBN	Thalidomide	FKBP12_F36V	False	Degron-tag (dTAG) system recruiting CRBN for conditional degradation
+dtag-47	dTAG-47	VHL	VH032	FKBP12_F36V	False	Degron-tag (dTAG) system recruiting VHL for conditional degradation
+acbi1	ACBI1	VHL	VH032	SMARCA2,SMARCA4	False	PROTAC degrader targeting SWI/SNF subunits SMARCA2/4 and PBRM1
+vh032	VH032	VHL	VH032		False	High-affinity hydroxyproline-based VHL E3 ligase ligand
+nutlin-3	Nutlin-3	MDM2	Nutlin-3	MDM2	False	MDM2-binding small molecule ligand

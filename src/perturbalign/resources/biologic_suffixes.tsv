@@ -1,0 +1,27 @@
+# Biologic and Macromolecule INN Suffixes
+# Identifies biologics, monoclonal antibodies, ADCs, and fusion proteins via WHO INN suffix rules
+# Columns: suffix, category, example, description
+suffix	category	example	description
+mab	antibody	Trastuzumab	INN suffix for antibody (e.g., Trastuzumab)
+cept	fusion_protein	Etanercept	INN suffix for fusion protein (e.g., Etanercept)
+kin	cytokine	Aldesleukin	INN suffix for cytokine (e.g., Aldesleukin)
+stim	growth_factor	Filgrastim	INN suffix for growth factor (e.g., Filgrastim)
+ase	enzyme	Rasburicase	INN suffix for enzyme (e.g., Rasburicase)
+tox	immunotoxin	Denileukin diftitox	INN suffix for immunotoxin (e.g., Denileukin diftitox)
+siran	rnai	Patisiran	INN suffix for rnai (e.g., Patisiran)
+nersen	aso	Nusinersen	INN suffix for aso (e.g., Nusinersen)
+rsen	aso	Eteplirsen	INN suffix for aso (e.g., Eteplirsen)
+tide	peptide	Semaglutide	INN suffix for peptide (e.g., Semaglutide)
+parvovec	gene_therapy	Onasemnogene abeparvovec	INN suffix for gene therapy (e.g., Onasemnogene abeparvovec)
+repvec	gene_therapy	Beremagene geperpavec	INN suffix for gene therapy (e.g., Beremagene geperpavec)
+henovec	gene_therapy	Nadofaragene firadenovec	INN suffix for gene therapy (e.g., Nadofaragene firadenovec)
+leucel	cell_therapy	Tisagenlecleucel	INN suffix for cell therapy (e.g., Tisagenlecleucel)
+vedotin	adc	Brentuximab vedotin	INN suffix for adc (e.g., Brentuximab vedotin)
+govitecan	adc	Sacituzumab govitecan	INN suffix for adc (e.g., Sacituzumab govitecan)
+deruxtecan	adc	Trastuzumab deruxtecan	INN suffix for adc (e.g., Trastuzumab deruxtecan)
+emtansine	adc	Trastuzumab emtansine	INN suffix for adc (e.g., Trastuzumab emtansine)
+mafodotin	adc	Belantamab mafodotin	INN suffix for adc (e.g., Belantamab mafodotin)
+tesirine	adc	Loncastuximab tesirine	INN suffix for adc (e.g., Loncastuximab tesirine)
+soravtansine	adc	Mirvetuximab soravtansine	INN suffix for adc (e.g., Mirvetuximab soravtansine)
+ozogamicin	adc	Gemtuzumab ozogamicin	INN suffix for adc (e.g., Gemtuzumab ozogamicin)
+duocarmazine	adc	Trastuzumab duocarmazine	INN suffix for adc (e.g., Trastuzumab duocarmazine)

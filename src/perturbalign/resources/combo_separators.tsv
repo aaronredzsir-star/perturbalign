@@ -1,0 +1,10 @@
+# Perturbation Combination Delimiters
+# Columns: separator, priority, note
+separator	priority	note
+__	10	Double underscore delimiter
++	20	Plus sign delimiter
+/	30	Slash delimiter
+:	40	Colon delimiter
+ and 	50	English word 'and' delimiter
+ & 	55	Ampersand delimiter with spaces
+ with 	60	English word 'with' delimiter

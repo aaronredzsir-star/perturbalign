@@ -1,0 +1,130 @@
+# Vehicle, Solvent, and Negative Control Tokens
+# Columns: token, canonical_label, note
+token	canonical_label	note
+dmso	DMSO	solvent (LINCS ctl_vehicle)
+dimethyl sulfoxide	DMSO	full name
+dimethylsulfoxide	DMSO	concatenated full name
+control	control	negative control
+ctrl	control	abbreviation
+vehicle	vehicle	solvent (sci-Plex3)
+vehicle control	vehicle	2-word solvent label
+untreated	untreated	no treatment (LINCS ctl_untrt)
+untrt	untreated	abbreviation
+ctl_vehicle	vehicle	LINCS CMap vehicle control tag
+ctl_vehicle.ccl	vehicle	LINCS CMap vehicle cancer cell line
+ctl_vector	vector	LINCS CMap vector control tag
+ctl_vector.ccl	vector	LINCS CMap vector cancer cell line
+ctl_untrt	untreated	LINCS CMap untreated control tag
+ctl_untrt.ccl	untreated	LINCS cancer cell line untreated
+water	water	vehicle
+saline	saline	vehicle
+saline control	saline	saline vehicle control
+normal saline	saline	0.9% NaCl saline
+pbs	PBS	phosphate-buffered saline
+dpbs	DPBS	Dulbecco's PBS
+hbss	HBSS	Hank's Balanced Salt Solution
+ebss	EBSS	Earle's Balanced Salt Solution
+ethanol	ethanol	solvent
+etoh	ethanol	solvent abbreviation
+methanol	methanol	solvent
+meoh	methanol	solvent abbreviation
+isopropanol	isopropanol	solvent
+ipa	isopropanol	solvent abbreviation
+peg300	PEG300	polyethylene glycol vehicle
+peg400	PEG400	polyethylene glycol vehicle
+peg-400	PEG400	hyphenated PEG vehicle
+polyethylene glycol	PEG	polyethylene glycol full
+propylene glycol	propylene glycol	delivery vehicle
+tween-20	Tween-20	surfactant vehicle
+tween 20	Tween-20	surfactant vehicle
+tween-80	Tween-80	surfactant vehicle
+tween 80	Tween-80	surfactant vehicle
+polysorbate 20	Tween-20	polysorbate INN
+polysorbate 80	Tween-80	polysorbate INN
+cremophor	Cremophor EL	polyoxyethylated castor oil
+cremophor el	Cremophor EL	formulation vehicle
+kolliphor	Kolliphor	formulation vehicle
+solutol	Solutol HS15	formulation vehicle
+solutol hs15	Solutol HS15	polyethylene glycol 15-hydroxystearate
+captisol	Captisol	sulfobutylether-beta-cyclodextrin
+cyclodextrin	cyclodextrin	solubilizing excipient
+hp-beta-cd	HP-beta-CD	hydroxypropyl-beta-cyclodextrin
+methylcellulose	methylcellulose	suspension vehicle
+corn oil	corn oil	lipid vehicle
+sesame oil	sesame oil	lipid vehicle
+peanut oil	peanut oil	lipid vehicle
+olive oil	olive oil	lipid vehicle
+mct oil	MCT oil	medium-chain triglyceride vehicle
+lipofectamine	Lipofectamine	transfection reagent control
+lipofectamine 2000	Lipofectamine 2000	transfection reagent
+lipofectamine 3000	Lipofectamine 3000	transfection reagent
+pei	PEI	polyethylenimine transfection reagent
+polyethylenimine	PEI	PEI full name
+fugene	FuGENE	transfection reagent control
+opti-mem	Opti-MEM	reduced serum medium
+media	media	medium-only control
+medium	media	medium-only variant
+media only	media	medium only
+medium only	media	medium only
+dmem	DMEM	Dulbecco's Modified Eagle Medium
+rpmi	RPMI-1640	cell culture medium
+rpmi-1640	RPMI-1640	cell culture medium
+ham's f-12	Ham's F-12	nutrient mixture
+f12	Ham's F-12	medium abbreviation
+mccoy's 5a	McCoy's 5A	medium
+imdm	IMDM	Iscove's Modified Dulbecco's Medium
+mem	MEM	Minimum Essential Medium
+fbs	FBS	fetal bovine serum (non-drug)
+bcs	BCS	bovine calf serum
+blank	blank	empty well / blank
+mock	mock	transfection mock
+parental	parental	parental cell line
+wt	WT	wild type
+wild type	WT	wild type full
+wildtype	WT	wild type concatenated
+negative	negative	negative control
+negative control	negative control	explicit
+negcon	negative control	negative control abbreviation
+neg_ctrl	negative control	negative control underscore
+negctrl	negative control	negative control concatenated
+ns	ns	non-silencing control
+scramble	scramble	negative control (shRNA/CRISPR)
+scrambled	scramble	scrambled control
+sgnt	sgNT	non-targeting sgRNA (PRISM/Perturb-seq)
+non-targeting	non-targeting	sgRNA control
+nontargeting	non-targeting	concatenated sgRNA control
+empty vector	empty vector	trt_oe/trt_sh vector control (LINCS)
+empty_vector	empty vector	underscore LINCS format
+gfp	GFP	fluorescent protein control (LINCS)
+egfp	eGFP	fluorescent protein control (LINCS)
+luciferase	Luciferase	reporter control (LINCS)
+rfp	RFP	fluorescent protein control (LINCS)
+hcred	HcRed	fluorescent protein control (LINCS)
+lacz	lacZ	reporter control (LINCS)
+pgw	PGW	vector control (LINCS)
+bfp	BFP	blue fluorescent protein control (LINCS)
+h2o	H2O	water (chemical formula notation, LINCS)
+plko.1	pLKO.1	shRNA vector control (LINCS)
+sgnontargeting	sgNT	non-targeting sgRNA control
+aavs1_sg	AAVS1_sg	safe harbor sgRNA control
+luciferase_sg	Luciferase_sg	reporter targeting control
+safe_targeting	safe_targeting	safe targeting control
+cas9_ctrl	Cas9_ctrl	Cas9 expression control
+shnt	shNT	non-targeting shRNA
+shcontrol	shControl	shRNA control
+untransfected	untransfected	untransfected cell control
+untransduced	untransduced	untransduced viral control
+isotype	isotype	antibody isotype control
+isotype control	isotype	antibody isotype control
+igg control	isotype	IgG control
+igg	isotype	IgG control
+sham	sham	sham surgery/procedure control
+scrambled_sg	sgNT	scrambled sgRNA control
+non-targeting_sg	sgNT	non-targeting sgRNA control
+neg_ctrl	control	negative control abbreviation
+neg ctrl	control	negative control abbreviation
+fresh media	media	fresh medium chase control
+fresh medium	media	fresh medium chase control
+complete media	media	complete medium control
+complete medium	media	complete medium control
+

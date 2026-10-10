@@ -1,0 +1,51 @@
+# Commercial Chemical Vendor Prefixes and Catalog Designators
+# Columns: vendor, note
+vendor	note
+tocris	Chemical supplier prefix for tocris
+selleck	Chemical supplier prefix for selleck
+selleckchem	Chemical supplier prefix for selleckchem
+medchemex	Chemical supplier prefix for medchemex
+medchemexpress	Chemical supplier prefix for medchemexpress
+mce	Chemical supplier prefix for mce
+microsource	Chemical supplier prefix for microsource
+sigma	Chemical supplier prefix for sigma
+aldrich	Chemical supplier prefix for aldrich
+sigma-aldrich	Chemical supplier prefix for sigma-aldrich
+targetmol	Chemical supplier prefix for targetmol
+apexbio	Chemical supplier prefix for apexbio
+cayman	Chemical supplier prefix for cayman
+calbiochem	Chemical supplier prefix for calbiochem
+enamine	Chemical supplier prefix for enamine
+enzo	Chemical supplier prefix for enzo
+vitas-m	Chemical supplier prefix for vitas-m
+aksci	Chemical supplier prefix for aksci
+adooq	Chemical supplier prefix for adooq
+emdbio	Chemical supplier prefix for emdbio
+combiblocks	Chemical supplier prefix for combiblocks
+chemdiv	Chemical supplier prefix for chemdiv
+tci	Chemical supplier prefix for tci
+astatech	Chemical supplier prefix for astatech
+chemimpex	Chemical supplier prefix for chemimpex
+acros	Chemical supplier prefix for acros
+toronto	Chemical supplier prefix for toronto
+trc	Chemical supplier prefix for trc
+alfa aesar	Chemical supplier prefix for alfa aesar
+alfaaesar	Chemical supplier prefix for alfaaesar
+labotest	Chemical supplier prefix for labotest
+wuxi	Chemical supplier prefix for wuxi
+santacruz	Chemical supplier prefix for santacruz
+interbioscreen	Chemical supplier prefix for interbioscreen
+bio-techne	Chemical supplier prefix for bio-techne
+abcam	Chemical supplier prefix for abcam
+rnd	Chemical supplier prefix for rnd
+peprotech	Chemical supplier prefix for peprotech
+fema	Chemical supplier prefix for fema
+ams	Chemical supplier prefix for ams
+key	Chemical supplier prefix for key
+ark	Chemical supplier prefix for ark
+hmsl	Chemical supplier prefix for hmsl
+hms	Chemical supplier prefix for hms
+mlsmr	Chemical supplier prefix for mlsmr
+mls	Chemical supplier prefix for mls
+ncgc	Chemical supplier prefix for ncgc
+

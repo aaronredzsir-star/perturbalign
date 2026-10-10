@@ -1,0 +1,45 @@
+# Genetic Perturbation Mechanisms and Functional Tags
+# Columns: tag, canonical_action, mechanism, description
+tag	canonical_action	mechanism	description
+KO	KO	Gene Knockout	Ko genetic action via Gene Knockout
+knockout	KO	Gene Knockout	Ko genetic action via Gene Knockout
+KD	KD	Gene Knockdown	Kd genetic action via Gene Knockdown
+knockdown	KD	Gene Knockdown	Kd genetic action via Gene Knockdown
+OE	OE	Gene Overexpression	Oe genetic action via Gene Overexpression
+overexpression	OE	Gene Overexpression	Oe genetic action via Gene Overexpression
+WT	WT	Wild Type	Wt genetic action via Wild Type
+wildtype	WT	Wild Type	Wt genetic action via Wild Type
+CRISPRi	CRISPRi	CRISPR Interference	Crispri genetic action via CRISPR Interference
+crispri	CRISPRi	CRISPR Interference	Crispri genetic action via CRISPR Interference
+CRISPRa	CRISPRa	CRISPR Activation	Crispra genetic action via CRISPR Activation
+crispra	CRISPRa	CRISPR Activation	Crispra genetic action via CRISPR Activation
+CRISPRoff	Epigenetic_Silencing	Epigenetic Memory Silencing	Epigenetic_silencing genetic action via Epigenetic Memory Silencing
+crisproff	Epigenetic_Silencing	Epigenetic Memory Silencing	Epigenetic_silencing genetic action via Epigenetic Memory Silencing
+CRISPRon	Epigenetic_Activation	Epigenetic Activation	Epigenetic_activation genetic action via Epigenetic Activation
+crispron	Epigenetic_Activation	Epigenetic Activation	Epigenetic_activation genetic action via Epigenetic Activation
+sg	KO	Single Guide RNA	Ko genetic action via Single Guide RNA
+sgrna	KO	Single Guide RNA	Ko genetic action via Single Guide RNA
+sh	KD	Short Hairpin RNA	Kd genetic action via Short Hairpin RNA
+shrna	KD	Short Hairpin RNA	Kd genetic action via Short Hairpin RNA
+si	KD	Small Interfering RNA	Kd genetic action via Small Interfering RNA
+sirna	KD	Small Interfering RNA	Kd genetic action via Small Interfering RNA
+aso	KD	Antisense Oligonucleotide	Kd genetic action via Antisense Oligonucleotide
+mutant	mutant	Point Mutation	Mutant genetic action via Point Mutation
+mutation	mutant	Point Mutation	Mutant genetic action via Point Mutation
+Cas9	KO	Cas9 Nuclease	Ko genetic action via Cas9 Nuclease
+dCas9	CRISPRi	Catalytically Dead Cas9	Crispri genetic action via Catalytically Dead Cas9
+Cas12a	KO	Cas12a/Cpf1 Nuclease	Ko genetic action via Cas12a/Cpf1 Nuclease
+cpf1	KO	Cas12a/Cpf1 Nuclease	Ko genetic action via Cas12a/Cpf1 Nuclease
+Cas13	KD	Cas13 RNA targeting	Kd genetic action via Cas13 RNA targeting
+casrx	KD	Cas13d (CasRx)	Kd genetic action via Cas13d (CasRx)
+BE	Base_Editing	Base Editor	Base_editing genetic action via Base Editor
+cbe	Base_Editing	Cytidine Base Editor	Base_editing genetic action via Cytidine Base Editor
+abe	Base_Editing	Adenine Base Editor	Base_editing genetic action via Adenine Base Editor
+PE	Prime_Editing	Prime Editor	Prime_editing genetic action via Prime Editor
+prime_editor	Prime_Editing	Prime Editor	Prime_editing genetic action via Prime Editor
+prime_editing	Prime_Editing	Prime Editor	Prime_editing genetic action via Prime Editor
+dTAG	Degron	Degron degradation	Degron genetic action via Degron degradation
+PROTAC	Degron	PROTAC degradation	Degron genetic action via PROTAC degradation
+AID	Degron	Auxin-inducible Degron	Degron genetic action via Auxin-inducible Degron
+optogenetic	Optogenetics	Light activation	Optogenetics genetic action via Light activation
+chemogenetic	Chemogenetics	DREADD activation	Chemogenetics genetic action via DREADD activation

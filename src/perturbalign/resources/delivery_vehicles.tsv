@@ -1,0 +1,31 @@
+# Drug Delivery Systems, Nanocarriers, and Viral Serotypes
+# Columns: token, canonical_name, carrier_type, serotype, formulation, tropism, description
+token	canonical_name	carrier_type	serotype	formulation	tropism	description
+lnp	Lipid Nanoparticle	lnp		ionizable_lipid,helper_lipid,cholesterol,peg_lipid	liver	Ionizable lipid nanoparticle system
+lipid nanoparticle	Lipid Nanoparticle	lnp		ionizable_lipid,helper_lipid,cholesterol,peg_lipid	liver	Lipid nanoparticle carrier
+mc3	DLin-MC3-DMA LNP	lnp		MC3,DSPC,Cholesterol,DMG-PEG2000	liver	Onpattro (Patisiran) FDA-approved ionizable lipid formulation
+dlin-mc3-dma	DLin-MC3-DMA LNP	lnp		MC3,DSPC,Cholesterol,DMG-PEG2000	liver	DLin-MC3-DMA ionizable cationic lipid
+sm-102	SM-102 LNP	lnp		SM-102,DSPC,Cholesterol,PEG2000-DMG	muscle,liver	Moderna Spikevax mRNA vaccine lipid formulation
+alc-0315	ALC-0315 LNP	lnp		ALC-0315,DSPC,Cholesterol,ALC-0159	muscle,liver	Pfizer-BioNTech Comirnaty mRNA vaccine lipid formulation
+dotap	DOTAP Liposome	lnp		DOTAP,DOPE	broad	Cationic lipid formulation for nucleic acid delivery
+dspc	DSPC Helper Lipid	lnp		DSPC	broad	1,2-distearoyl-sn-glycero-3-phosphocholine structural lipid
+dmg-peg2000	DMG-PEG2000 Lipid	lnp		DMG-PEG2000	broad	1,2-dimyristoyl-rac-glycero-3-methoxypolyethylene glycol-2000
+aav1	AAV1	aav	AAV1		muscle,cns	Adeno-associated virus serotype 1
+aav2	AAV2	aav	AAV2		eye,cns	Adeno-associated virus serotype 2 (Luxturna archetype)
+aav5	AAV5	aav	AAV5		liver,cns,eye	Adeno-associated virus serotype 5
+aav6	AAV6	aav	AAV6		muscle,airway	Adeno-associated virus serotype 6
+aav8	AAV8	aav	AAV8		liver,muscle	Adeno-associated virus serotype 8
+aav9	AAV9	aav	AAV9		cns,heart,liver	Adeno-associated virus serotype 9 (Zolgensma, crosses BBB)
+aav-php.eb	AAV-PHP.eB	aav	AAV-PHP.eB		cns	Engineered AAV9 variant with ultra-high CNS transduction
+aav-php.v1	AAV-PHP.V1	aav	AAV-PHP.V1		vascular,cns	Engineered AAV variant for vascular endothelial targeting
+aav-dj	AAV-DJ	aav	AAV-DJ		broad	Synthetic hybrid AAV with high in vitro infectivity
+aav-retro	AAV-Retro	aav	AAV-Retro		cns	Retrograde axon-transport optimized AAV
+exosome	Exosome	exosome			broad	Cell-secreted extracellular vesicle (30-150nm)
+extracellular vesicle	Extracellular Vesicle	exosome			broad	Cell-derived membrane vesicles
+lentivirus	Lentivirus	lentivirus			broad	Replication-incompetent retroviral vector (stable genomic integration)
+lenti	Lentivirus	lentivirus			broad	Lentiviral transduction vector
+adenovirus	Adenovirus	adenovirus	Ad5		broad	Human adenovirus serotype 5 vector (high transient expression)
+lipofectamine	Lipofectamine	transfection_reagent		cationic_lipids	in_vitro	Classic lipid-based in vitro transfection reagent
+lipofectamine 2000	Lipofectamine 2000	transfection_reagent		cationic_lipids	in_vitro	Invitrogen cationic lipid transfection reagent
+lipofectamine 3000	Lipofectamine 3000	transfection_reagent		cationic_lipids,p3000	in_vitro	Advanced nanoparticle lipid transfection reagent
+pei	Polyethylenimine	transfection_reagent		PEI	in_vitro	Cationic polymer transfection agent
