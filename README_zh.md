@@ -1,10 +1,31 @@
 # PerturbAlign 🧬
 
+[![PyPI version](https://img.shields.io/pypi/v/perturbalign.svg)](https://pypi.org/project/perturbalign/)
+[![Python](https://img.shields.io/pypi/pyversions/perturbalign.svg)](https://pypi.org/project/perturbalign/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 [English](README.md) | [中文](README_zh.md)
 
 **PerturbAlign** 是一个面向单细胞扰动组学（Perturb-seq、Sci-Plex、Mix-seq、L1000）与多组学因果知识体系的扰动数据清洗、实体对齐、因果知识富集与内嵌图数据库存储工具。
 
-核心能力：
+---
+
+## 安装
+
+直接从 [PyPI](https://pypi.org/project/perturbalign/) 安装：
+
+```bash
+pip install perturbalign
+```
+
+如需可选扩展加速（Pandas 向量化、急速模糊匹配、AnnData 单细胞支持）：
+```bash
+pip install "perturbalign[pandas,fuzzy,anndata]"
+```
+
+---
+
+### 核心能力：
 1. **扰动元数据标准化**：将实验中杂乱的原始标签（包含盐型、溶剂、浓度、时间、商品名、药企研发代号等）清洗消歧为符合 **UPDS (Unified Perturbation Data Schema v1.0)** 规范的受控字段。
 2. **因果调控知识富集**：将扰动作用靶点连接到下游**激酶 $\to$ 转录因子 (TFs) $\to$ DoRothEA 权威响应基因群**的真实因果链，并支持宿主细胞系突变背景特异性剪枝。
 3. **内嵌 SQLite 图数据底座**：内置 ACID 事务性图数据库（`SQLiteGraphStore`），支持 SQL 递归通用表表达式 (Recursive CTE) 进行毫秒级多跳因果路径推断，免去复杂外部图服务运维。

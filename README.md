@@ -1,10 +1,31 @@
 # PerturbAlign 🧬
 
+[![PyPI version](https://img.shields.io/pypi/v/perturbalign.svg)](https://pypi.org/project/perturbalign/)
+[![Python](https://img.shields.io/pypi/pyversions/perturbalign.svg)](https://pypi.org/project/perturbalign/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 [English](README.md) | [中文](README_zh.md)
 
 **PerturbAlign** is a specialized toolkit for perturbation data cleaning, entity alignment, causal knowledge enrichment, and embedded graph querying designed for single-cell perturbation biology (Perturb-seq, Sci-Plex, Mix-seq, L1000) and multi-omics knowledge systems.
 
-It directly addresses core challenges:
+---
+
+## Installation
+
+Install directly from [PyPI](https://pypi.org/project/perturbalign/):
+
+```bash
+pip install perturbalign
+```
+
+For optional dependencies (e.g., Pandas vectorized DataFrame processing, rapid fuzzy matching, AnnData single-cell support):
+```bash
+pip install "perturbalign[pandas,fuzzy,anndata]"
+```
+
+---
+
+### Core Capabilities:
 1. **Perturbation Metadata Standardization**: Cleans and disambiguates noisy raw experimental labels (containing salt forms, solvents, dosages, timepoints, trade names, and investigational codes) into controlled fields adhering to the **UPDS (Unified Perturbation Data Schema v1.0)** specification.
 2. **Causal Regulatory Knowledge Enrichment**: Connects perturbed targets to downstream causal regulatory chains (**Kinase $\to$ Transcription Factors (TFs) $\to$ DoRothEA Curated Target Regulons**), supporting host cell line mutation-specific context pruning.
 3. **Embedded Graph Database Backend**: Built-in ACID SQLite graph database (`SQLiteGraphStore`) supporting SQL Recursive Common Table Expressions (CTE) for ultra-fast multi-hop causal path search without requiring external graph server infrastructure.
